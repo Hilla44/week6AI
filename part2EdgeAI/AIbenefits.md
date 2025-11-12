@@ -33,5 +33,6 @@ Industry deployments of Edge AI have demonstrated substantial improvements in **
 ---
 
 **Author:** *Hillary Kore*  
-**FOUNDER:** *Medica AI  *
+**FOUNDER:** Medica AI  
+
 
